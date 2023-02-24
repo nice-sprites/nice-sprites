@@ -12,7 +12,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/1076830972831604807/1078373048572444752/tumblr_2b78b5c0a8d9881b1d08c8de3c41e8dc_51ea192b_640.gif">
+  <img align="right" alt="gif" src=https://64.media.tumblr.com/ca3a2c7f4995966dead2e99b9d7c521c/82dbee90ee4e99d5-be/s540x810/13f72c381fa3928d22e663a61a80dc18581e54bf.gif>
          
  </div>
  
