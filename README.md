@@ -22,4 +22,4 @@
 
 Também gosto da estética Cyber; animes e jogos com essa estética (Ex: Evangelion, GUNDAM, Cowboy bebop, Portal 1 e 2, etc.) e de JRPGs (Kingdom Hearts, Dragon Quest, Final Fantasy, Chrono Trigger, etc). 
 
-Atualmente aprendendo Python, javascript e C (candidato a OBR).
+Membro da GSAM, equipe FROGGERS
